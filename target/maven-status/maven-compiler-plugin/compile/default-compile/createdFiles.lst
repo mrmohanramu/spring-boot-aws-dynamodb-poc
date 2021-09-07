@@ -1,6 +1,0 @@
-com\relcalender\entity\Address.class
-com\relcalender\config\DynamoDBConfiguration.class
-com\relcalender\controller\CustomerController.class
-com\relcalender\entity\Customer.class
-com\relcalender\SpringBootDynamodbApplication.class
-com\relcalender\repository\CustomerRepository.class
