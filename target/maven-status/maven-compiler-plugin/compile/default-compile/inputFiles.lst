@@ -1,0 +1,6 @@
+E:\spring-boot-aws-dynamodb-poc\src\main\java\com\relcalender\entity\Customer.java
+E:\spring-boot-aws-dynamodb-poc\src\main\java\com\relcalender\controller\CustomerController.java
+E:\spring-boot-aws-dynamodb-poc\src\main\java\com\relcalender\SpringBootDynamodbApplication.java
+E:\spring-boot-aws-dynamodb-poc\src\main\java\com\relcalender\repository\CustomerRepository.java
+E:\spring-boot-aws-dynamodb-poc\src\main\java\com\relcalender\config\DynamoDBConfiguration.java
+E:\spring-boot-aws-dynamodb-poc\src\main\java\com\relcalender\entity\Address.java
